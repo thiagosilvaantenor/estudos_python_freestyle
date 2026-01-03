@@ -14,6 +14,7 @@
 - [API How Long to Beat](https://github.com/ScrappyCocco/HowLongToBeat-PythonAPI)
 - [Pandas](https://pandas.pydata.org/)
 - [Path](https://docs.python.org/3/library/os.path.html)
+- [Google Colab](https://colab.google/)
 
  ## Autor
 
